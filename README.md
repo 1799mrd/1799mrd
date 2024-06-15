@@ -1,64 +1,21 @@
-### Привет! 👋
-
-### ✨ Обо мне за 30 секунд ✨ 
-* 🎓 Образование:
-  - 
-  - 
-  - 
-* 
-*  
-* 
-* 
-
-### 📚 Проекты 📚
-
-* Кликни [сюда]() чтобы посмотреть мои проекты
-
-### 💡 Основные компетенции 💡
-- Инструменты: 
-- Skills: 
-    * 
-    * 
-    * 
-
-### ⚡️ В настоящее время ⚡️
-- 
-- 
-- 
-- 
-
-### 🙌🏻 Свяжись со мной
-- [Telegram]()
-- [Kaggle]()
-
----
-
 ### Hello! 👋
 
 ### ✨ About me in 30 seconds ✨ 
+
 * 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
+ - Kazan Federal University (KFU), Faculty of Biology
+ - Moscow State University (MSU)
+
+* Blastim: NGS Data Analysis (Course Completion)
+* SkillFactory: Data Science (Course Completion)
+
 
 ### 💡 Core competencies 💡
-- Tools: 
-  - Skills:
-    * 
-    * 
-    * 
 
+    * Language: SQL, Python
+    * Database: PostgreSQL, MySQL
 
-### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
 
 ### 🙌🏻 Contact me
-- [Telegram]()
-- [Kaggle]()
+
+- [Telegram](@MDRegina)
