@@ -1,6 +1,6 @@
-### Hello! 👋
-
 <h1 align="center">Regina M</h1>
+
+### Hello! 👋
 
 
 <p>
