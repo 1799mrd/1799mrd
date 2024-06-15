@@ -3,11 +3,11 @@
 ### ✨ About me in 30 seconds ✨ 
 
 * 🎓 Education:
- - Kazan Federal University (KFU), Faculty of Biology
- - Moscow State University (MSU)
+     - Kazan Federal University (KFU), Faculty of Biology
+     - Moscow State University (MSU)
 
-* Blastim: NGS Data Analysis (Course Completion)
-* SkillFactory: Data Science (Course Completion)
+        * Blastim: NGS Data Analysis (Course Completion)
+        * SkillFactory: Data Science (Course Completion)
 
 
 ### 💡 Core competencies 💡
