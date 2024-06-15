@@ -32,7 +32,7 @@ I am an aspiring bioinformatician, currently working at <a href="https://blastim
 
 ### 💡 Core competencies 💡
 
-* Language: SQL, Python
+* Language: SQL, Python, R
 * Database: PostgreSQL, MySQL
 
 
