@@ -12,8 +12,8 @@
 
 ### 💡 Core competencies 💡
 
-    * Language: SQL, Python
-    * Database: PostgreSQL, MySQL
+* Language: SQL, Python
+* Database: PostgreSQL, MySQL
 
 
 ### 🙌🏻 Contact me
